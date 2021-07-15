@@ -1,5 +1,12 @@
 # Title
 \[description about this project here\]
+
+## Getting Started
+
+```shell
+docker-compose up
+```
+
 ## How To Contribute
 
 The \[name of this document project\] is licensed under a Creative Commons Attribution-ShareAlike 4.0 license. 
