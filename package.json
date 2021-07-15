@@ -1,8 +1,9 @@
 {
   "name": "document_template",
-  "author": "",
+  "author": "<your name>",
+  "repository": "git@github.com:<github_user>/<github repo>.git",
   "version": "1.0.0",
-  "description": "",
+  "description": "<description>",
   "main": "index.js",
   "scripts": {
     "serve": "honkit serve ./ ./dist",
