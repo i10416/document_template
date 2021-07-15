@@ -5,8 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve" :"honkit serve",
-    "build" :"honkit build",
+    "serve" :"honkit serve ./ ./dist",
+    "build" :"honkit build ./ ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
