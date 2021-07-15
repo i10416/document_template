@@ -1,0 +1,14 @@
+{
+  "title": "template",
+  "author": "John Doe&Jane doe",
+  "publisher": "",
+  "pdf" :{
+    "pageNumbers": true,
+    "fontSize":14
+  },
+  "variables": {},
+  "links":{
+    "sidebar":{
+     }
+  }
+}
