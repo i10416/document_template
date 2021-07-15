@@ -1,0 +1,20 @@
+{
+  "name": "document_template",
+  "author": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "honkit serve ./ ./dist",
+    "build": "honkit build ./ ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {},
+  "devDependencies": {
+    "honkit": "^3.6.20",
+    "gitbook-plugin-search-pro-fixed": "^1.0.0",
+    "gitbook-plugin-katex-pro": "^0.13.11"
+  }
+}
