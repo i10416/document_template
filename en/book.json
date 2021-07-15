@@ -2,7 +2,6 @@
   "title": "template",
   "author": "John Doe&Jane doe",
   "publisher": "",
-  "plugins":["katex-pro"],
   "pdf" :{
     "pageNumbers": true,
     "fontSize":14

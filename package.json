@@ -5,12 +5,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "serve" :"honkit serve",
+    "build" :"honkit build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "CC-BY-SA-4.0",
+  "dependencies": {},
   "devDependencies": {
-    "honkit": "^3.6.20"
+    "honkit": "^3.6.20",
+    "gitbook-plugin-katex-pro": "^0.13.11"
   }
 }

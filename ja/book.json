@@ -1,9 +1,7 @@
 {
-  "title": "template",
-  "author": "John Doe&Jane doe",
-  "publisher": "",
-  "plugins":["katex-pro"],
+  "language": "ja",
   "pdf" :{
+    "fontFamily": "IPAGothic",
     "pageNumbers": true,
     "fontSize":14
   },
