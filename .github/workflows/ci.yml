@@ -21,6 +21,8 @@ jobs:
 
     - name: Build docs
       run: npm run build
+      env:
+        - CHROMIUM_FLAGS=--no-sandbox
 
     - name: Push to gh-pages
       uses: peaceiris/actions-gh-pages@v3
