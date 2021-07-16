@@ -15,7 +15,9 @@ The **quick** brown _fox_ jumps over the lazy [~~cat~~](https://typelevel.org/ca
 
 Quote
 
-> The quick brown fox jumps over the lazy dog.
+> Dicebat Bernardus Carnotensis nos esse quasi nanos gigantum umeris insidentes, ut possimus plura eis et remotiora uidere, non utique proprii uisus acumine, aut eminentia corporis, sed quia in altum subuehimur et extollimur magnitudine gigantea.
+>
+>  John of Salisbury「Metalogicon」
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -40,7 +42,10 @@ The **quick** brown _fox_ jumps over the lazy [~~cat~~](https://typelevel.org/ca
 
 Quote
 
-> The quick brown fox jumps over the lazy dog.
+> Dicebat Bernardus Carnotensis nos esse quasi nanos gigantum umeris insidentes, ut possimus plura eis et remotiora uidere, non utique proprii uisus acumine, aut eminentia corporis, sed quia in altum subuehimur et extollimur magnitudine gigantea.
+>
+>  John of Salisbury「Metalogicon」
+
 
 | First Header  | Second Header |
 | ------------- | ------------- |
