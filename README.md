@@ -19,7 +19,6 @@ Visit https://github.com/path/to/repo and edit.
 
 Create `*.md` file under `<lang>/chapter-<n>/` directory.
 
-
 ## eBooks and PDFs
 
 If you want this document in eBook or PDF format, follow the guide below.
