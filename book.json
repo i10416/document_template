@@ -3,6 +3,7 @@
   "author": "John Doe&Jane doe",
   "publisher": "",
   "plugins":["katex-pro", "-search", "search-pro-fixed" ,"mermaid-newface"],
+  "output": "dist",
   "pdf" :{
     "pageNumbers": true,
     "fontSize":14
