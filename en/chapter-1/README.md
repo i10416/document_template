@@ -1,8 +1,67 @@
 # welcome to chapter 1
 
-Examples
+## Examples
 
-## math
+### markdown
+
+```md
+# h1
+
+## h2 
+
+### h3
+
+The **quick** brown _fox_ jumps over the lazy [~~cat~~](https://typelevel.org/cats/)  dog.
+
+Quote
+
+> The quick brown fox jumps over the lazy dog.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Text prior to footnote reference.[^2]
+
+---
+
+[^2]: Comment to include in footnote.
+
+```
+
+# h1
+
+## h2
+
+### h3
+
+The **quick** brown _fox_ jumps over the lazy [~~cat~~](https://typelevel.org/cats/)  dog.
+
+Quote
+
+> The quick brown fox jumps over the lazy dog.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Text prior to footnote reference.[^2]
+
+---
+
+[^2]: Comment to include in footnote.
+
+
+### code highlight
+
+```javascript
+console.log("hello world!")
+```
+
+
+### math
 
 This template uses katex. 
 
@@ -31,7 +90,7 @@ You can find further information here.
 
 https://katex.org/
 
-## Mermaid
+### Mermaid
 
 You can draw diagrams such as state diagrams,sequence diagrams, class diagrams and charts using mermaid syntax.
 
