@@ -5,6 +5,8 @@ services:
     build:
       context: .
       dockerfile: ./Dockerfile
+    environment:
+      - CHROMIUM_FLAGS=--no-sandbox
     ports:
       - "4000:4000"
     volumes:
