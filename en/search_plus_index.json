@@ -1,1 +1,1 @@
-{"./":{"url":"./","title":"Introduction","keywords":"","body":"タイトル sequenceDiagram autonumber Alice->>+John: Hello John, how are you? Alice->>+John: John, can you hear me? John-->>-Alice: Hi Alice, I can hear you! John-->>-Alice: I feel great! ようこそ はじめに コントリビューション "},"chapter-1/":{"url":"chapter-1/","title":"Chapter 1","keywords":"","body":"welcome to chapter 1 "}}
+{"./":{"url":"./","title":"Introduction","keywords":"","body":"タイトル ようこそ はじめに コントリビューション "},"chapter-1/":{"url":"chapter-1/","title":"Chapter 1","keywords":"","body":"welcome to chapter 1 "}}
