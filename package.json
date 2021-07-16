@@ -16,6 +16,7 @@
   "devDependencies": {
     "honkit": "^3.6.20",
     "gitbook-plugin-search-pro-fixed": "^1.0.0",
+    "gitbook-plugin-mermaid-newface": "^4.0.2",
     "gitbook-plugin-katex-pro": "^0.13.11"
   }
 }

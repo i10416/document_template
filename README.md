@@ -33,13 +33,13 @@ git clone https://github.com/path/to/repo
 
 cd repo
 # generate a pdf file
-docker-compose exec --env QTWEBENGINE_CHROMIUM_FLAGS="--no-sandbox" book npx honkit pdf ./ ./example.pdf
+docker-compose exec --env CHROMIUM_FLAGS="--no-sandbox" --env QTWEBENGINE_CHROMIUM_FLAGS="--no-sandbox" book npx honkit pdf ./ ./example.pdf
 
 # generate an ePub file
-docker-compose exec --env QTWEBENGINE_CHROMIUM_FLAGS="--no-sandbox" book npx honkit epub ./ ./example.epub
+docker-compose exec --env CHROMIUM_FLAGS="--no-sandbox" --env QTWEBENGINE_CHROMIUM_FLAGS="--no-sandbox" book npx honkit epub ./ ./example.epub
 
 # generate a Mobi file
-docker-compose exec --env QTWEBENGINE_CHROMIUM_FLAGS="--no-sandbox" book npx honkit mobi ./ ./example.mobi
+docker-compose exec --env CHROMIUM_FLAGS="--no-sandbox" --env QTWEBENGINE_CHROMIUM_FLAGS="--no-sandbox" book npx honkit mobi ./ ./example.mobi
 
 ```
 
