@@ -1,17 +1,17 @@
 version: "3.9"
 services:
   book:
+    tty: true
+    restart: always
     build:
       context: .
       dockerfile: ./Dockerfile
-    environment:
-      - CHROMIUM_FLAGS=--no-sandbox
     ports:
       - "4000:4000"
     volumes:
       -  .:/app
       - modules:/app/node_modules
-    command: npm run serve
+    command: npx honkit serve
     working_dir: /app
 volumes:
   modules:

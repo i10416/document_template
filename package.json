@@ -6,7 +6,8 @@
   "description": "<description>",
   "main": "index.js",
   "scripts": {
-    "serve": "honkit serve",
+    "patch" : "cp workaround.js /app/node_modules/gitbook-plugin-mermaid-newface/index.js",
+    "serve":"honkit serve",
     "build": "honkit build ./ ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

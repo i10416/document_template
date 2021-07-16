@@ -2,7 +2,6 @@
 requirements.txt
 Dockerfile
 docker-compose.yml
-puppeteer-config.json
 .gitignore
 .dockerignore
 node_modules

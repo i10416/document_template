@@ -4,8 +4,7 @@
   "publisher": "",
   "plugins":["katex-pro", "-search", "search-pro-fixed" ,"mermaid-newface"],
   "pdf" :{
-    "pageNumbers": true,
-    "fontSize":14
+    "pageNumbers": true
   },
   "variables": {},
   "links":{
