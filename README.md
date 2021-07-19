@@ -52,10 +52,11 @@ You can find any discussions about the contents of this project  on the GitHub i
 
 ## Getting Started
 
+Launch a container.
 ```shell
 docker-compose up
 ```
-And then, go http://localhost:4000
+And then, visit http://localhost:4000
 
 
 
