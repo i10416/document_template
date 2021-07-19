@@ -1,10 +1,13 @@
 {
-  "title": "template",
-  "author": "John Doe&Jane doe",
   "publisher": "",
+  "root": "./",
   "plugins":["katex-pro", "-search", "search-pro-fixed" ,"mermaid-newface"],
   "pdf" :{
-    "pageNumbers": true
+    "pageNumbers": true,
+    "margin": {
+      "right": 40,
+      "left": 40 
+    }
   },
   "variables": {},
   "links":{
